@@ -78,7 +78,7 @@
       "#FFFFFF"
     ],
     "BACKGROUND_NESTED_FLOATING": [
-      "#1a1926",
+      "#000000",
       "#FFFFFF"
     ],
     "BACKGROUND_MESSAGE_HOVER": [
@@ -86,19 +86,19 @@
       "#FFFFFF"
     ],
     "BACKGROUND_MODIFIER_HOVER": [
-      "#1a1926",
+      "#000000",
       "#FFFFFF"
     ],
     "BACKGROUND_MODIFIER_ACTIVE": [
-      "#1a1926",
+      "#000000",
       "#FFFFFF"
     ],
     "BACKGROUND_MODIFIER_SELECTED": [
-      "#1a1926",
+      "#000000",
       "#FFFFFF"
     ],
     "BACKGROUND_MODIFIER_ACCENT": [
-      "#1a1926",
+      "#000000",
       "#FFFFFF"
     ],
     "SCROLLBAR_THIN_THUMB": [

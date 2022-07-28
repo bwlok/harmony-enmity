@@ -22,7 +22,7 @@
       "#FFFFFF"
     ],
     "TEXT_NORMAL": [
-      "#FBFBFB",
+      "#fb2d7f",
       "#FFFFFF"
     ],
     "TEXT_MUTED": [
@@ -127,7 +127,7 @@
     ],
     "TEXT_LINK": [
       "#fb2d7f",
-      "#FFFFFF"
+      "#fb2d7f"
     ],
     "CHANNEL_ICON": [
       "#fb2d7f",

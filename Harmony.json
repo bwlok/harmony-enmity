@@ -135,7 +135,7 @@
     ]
   },
   "colours": {
-    "PRIMARY_DARK": "#1a1926",
+    "PRIMARY_DARK": "#000000",
     "PRIMARY_DARK_100": "#ffffff",
     "PRIMARY_DARK_200": "#ffffff",
     "PRIMARY_DARK_300": "#B6B6B6",

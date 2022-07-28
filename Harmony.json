@@ -1,6 +1,6 @@
 {
   "name": "Harmony",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "Discord Harmony theme for Enmity",
   "authors": [
     {
@@ -22,7 +22,7 @@
       "#FFFFFF"
     ],
     "TEXT_NORMAL": [
-      "#fb2d7f",
+      "#FFFFFF",
       "#FFFFFF"
     ],
     "TEXT_MUTED": [

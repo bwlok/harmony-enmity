@@ -50,19 +50,19 @@
       "#FFFFFF"
     ],
     "BACKGROUND_SECONDARY": [
-      "#1a1926",
+      "#FFFFFF",
       "#FFFFFF"
     ],
     "BACKGROUND_SECONDARY_ALT": [
-      "#1a1926",
+      "#FFFFFF",
       "#FFFFFF"
     ],
     "BACKGROUND_TERTIARY": [
-      "#1a1926",
+      "#FFFFFF",
       "#FFFFFF"
     ],
     "BACKGROUND_ACCENT": [
-      "#1a1926",
+      "#FFFFFF",
       "#FFFFFF"
     ],
     "BACKGROUND_FLOATING": [
@@ -150,10 +150,5 @@
   },
   "unsafe_colors": {
     "CHAT_GREY": "#1a1926"
-  },
-  "background": {
-    "blur": 1,
-    "url": "https://media.discordapp.net/attachments/969622676396191772/987071410998497280/30D2BCE6-13C0-4C4B-B5E9-C31791ACB70B.jpg",
-    "alpha": 1.0
   }
 }

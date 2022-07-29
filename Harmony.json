@@ -19,7 +19,7 @@
       "#FFFFFF"
     ],
     "HEADER_SECONDARY": [
-      "#fb2d7f",
+      "#FFFFFF",
       "#FFFFFF"
     ],
     "TEXT_NORMAL": [
@@ -35,7 +35,7 @@
       "#FFFFFF"
     ],
     "INTERACTIVE_HOVER": [
-      "#747474",
+      "#fb2d7f",
       "#FFFFFF"
     ],
     "INTERACTIVE_ACTIVE": [
@@ -59,7 +59,7 @@
       "#FFFFFF"
     ],
     "BACKGROUND_TERTIARY": [
-      "#fb2d7f",
+      "#0a0a0a",
       "#FFFFFF"
     ],
     "BACKGROUND_ACCENT": [

@@ -1,7 +1,7 @@
 {
   "name": "Harmony",
   "version": "0.0.2",
-  "description": "Discord Harmony theme for Enmity",
+  "description": "Pink/Black Theme for Enmity",
   "color": "#fb2d7f",
   "authors": [
     {
@@ -35,7 +35,7 @@
       "#FFFFFF"
     ],
     "INTERACTIVE_HOVER": [
-      "#DCDDDE",
+      "#949292",
       "#FFFFFF"
     ],
     "INTERACTIVE_ACTIVE": [
